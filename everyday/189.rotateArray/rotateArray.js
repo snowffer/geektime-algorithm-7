@@ -67,7 +67,7 @@ var rotate3 = function (nums, k) {
 };
 
 // 旋转法
-// 时间复杂度：O(k)
+// 时间复杂度：O(N)
 // 空间复杂度：O(1)
 // 优点：不仅符合题目要求，而且思路清晰，非常巧妙，代码易懂
 var rotate4 = function (nums, k) {
